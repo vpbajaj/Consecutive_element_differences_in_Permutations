@@ -6,4 +6,4 @@ Compute the following:
 2. What is the standard deviation of your total payment for N=10?
 3. What is the mean of your total payment for N=20?
 4. What is the standard deviation of your total payment for N=20?
-5. What is the probability that your total payment is greater than or equal to 160 for N=20?
+5. What is the probability that your total payment is greater than or equal to 160 for N=10?
